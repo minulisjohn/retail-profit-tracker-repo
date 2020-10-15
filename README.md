@@ -21,6 +21,7 @@ Calculate Profit Module -
 Tests for backend(JUnit) and frontend(Jest).
 Webpackaging for frontend(Webpack).
 CORS can be improved in production by allowing only the required domain.
+Documentataion for REST APIs using Swagger.
 
 ## Screenshots -
 Screenshots are attached in Screenshots file.
